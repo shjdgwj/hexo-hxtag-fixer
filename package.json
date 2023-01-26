@@ -1,0 +1,17 @@
+{
+    "name": "hexo-hxtag-fixer",
+    "version": "0.0.1",
+    "description": "convert h(x) to h(x+1) for hexo",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "files": [
+        "lib",
+        "index.js"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "shjdgwj"
+}
